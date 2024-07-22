@@ -1,4 +1,4 @@
-# Predicting Bank Churn
+# Predicting Insurance Cross Sell
 
 ## Project description
 
