@@ -27,4 +27,4 @@ We evaluated the performance of the following models in predicting insurance cro
 
 ## Results
 
-The first attempt voting classifier model achieved 87% accuracy in the public leaderboard.
+1. The naive voting classifier model achieved 87% accuracy in the public leaderboard.

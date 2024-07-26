@@ -5,39 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fd1fca-7726-43b9-8f58-90585114e6bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.Rhistory" beforeDir="false" afterPath="$PROJECT_DIR$/.Rhistory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/37B5D92E/pcs/files-pane.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/37B5D92E/pcs/files-pane.pper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/37B5D92E/pcs/source-window.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/37B5D92E/pcs/source-window.pper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/37B5D92E/pcs/windowlayoutstate.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/37B5D92E/pcs/windowlayoutstate.pper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/37B5D92E/sources/prop/014DEB80" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/37B5D92E/sources/prop/014DEB80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/37B5D92E/sources/prop/INDEX" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/37B5D92E/sources/prop/INDEX" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/37B5D92E29f76cc5/chunks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/c326aj9r4cvfx/000014.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/c326aj9r4cvfx/000014.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/c48dh3xowtbfk/00000f.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/c5xps65xhsonw/000015.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/c5xps65xhsonw/000015.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/chunks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cicblegc8ns6d/00000f.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cjkwh9puc1xii/000010.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cmzs69eq92bol/000016.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cmzs69eq92bol/000016.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cql6px6k84nr9/00000f.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cs2m0kwzpsxfr/00000f.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cs2m0kwzpsxfr/000010.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cs2m0kwzpsxfr/000010.rdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/7F2A27CF-Bank Churn/1/s/cx4diqgd5t86w/00000f.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/paths" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/paths" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bank.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Bank Churn.Rmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Bank-Churn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Bank-Churn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Bank-Churn_files/figure-html/unnamed-chunk-11-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Bank-Churn_files/figure-html/unnamed-chunk-12-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Bank-Churn_files/figure-html/unnamed-chunk-13-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/playground-series-s4e1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ISC_naive_clf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/ISC_naive_clf.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Uplift.Rmd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +66,9 @@
       <workItem from="1721512287160" duration="4056000" />
       <workItem from="1721517348430" duration="7115000" />
       <workItem from="1721574219005" duration="1503000" />
-      <workItem from="1721577474251" duration="20624000" />
+      <workItem from="1721577474251" duration="31451000" />
+      <workItem from="1721760896602" duration="27888000" />
+      <workItem from="1721878935354" duration="23003000" />
     </task>
     <servers />
   </component>
@@ -105,5 +78,16 @@
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="python:Django" />
     <option featureType="dependencySupport" implementationName="python:pyspark" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/psyc/Documents/GitHub/Insurance Cross Sell/data/ISC_naive_clf.ipynb</url>
+          <line>95</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
