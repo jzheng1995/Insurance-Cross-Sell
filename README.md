@@ -19,12 +19,20 @@ The dataset used in this project belongs to the [Kaggle Playground Series](https
 
 ## Methods
 
-We evaluated the performance of the following models in predicting insurance cross sell using Python and the scikit-learn machine learning framework:
+We evaluated the performance of the following models in predicting insurance cross sell:
 
-- Multiple classifiers and voting classifier
-- TBD
-- TBH
-
+1.[Voting classifier](data/ISC_naive_clf.ipynb)
+  - 8 Default classifiers were compared on performance
+  - Top 3 models were used in a soft-probability vote classifier
+2. [Tuned XGBoost](data/ISC_autoopt.ipynb)
+  - Set up a XGBoost model pipeline
+  - Used Bayesian hyperoptimization to tune model
+  - Models were evaluated in native XGBoost Cross-validation
+3. [Tuned randomforest](data/ISC_RF_tuning.ipynb)
+  - Work in progress
+  
 ## Results
 
-1. The naive voting classifier model achieved 87% accuracy in the public leaderboard.
+1. The naive voting classifier model achieved 87.5% accuracy in the public leaderboard.
+
+
