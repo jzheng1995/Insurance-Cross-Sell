@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/ISC_RF_tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/ISC_RF_tuning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/ISC_autoopt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/ISC_autoopt.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ISC_naive_clf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/ISC_naive_clf.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1721577474251" duration="31451000" />
       <workItem from="1721760896602" duration="27888000" />
       <workItem from="1721878935354" duration="23003000" />
-      <workItem from="1722162803384" duration="14975000" />
+      <workItem from="1722162803384" duration="38199000" />
     </task>
     <servers />
   </component>
@@ -79,5 +78,16 @@
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="python:Django" />
     <option featureType="dependencySupport" implementationName="python:pyspark" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="jupyter-line">
+          <url>notebook:///Users/psyc/Documents/GitHub/Insurance Cross Sell/data/ISC_autoopt.ipynb</url>
+          <line>118</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
