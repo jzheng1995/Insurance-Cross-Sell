@@ -21,7 +21,8 @@ The dataset used in this project belongs to the [Kaggle Playground Series](https
 
 We evaluated the performance of the following models in predicting insurance cross sell:
 
-1.[Voting classifier](data/ISC_naive_clf.ipynb)
+1. [Voting classifier](data/ISC_naive_clf.ipynb)
+  - Ensemble classifier achieved 87.5% accuracy on Kaggle leaderboard
   - 8 Default classifiers were compared on performance
   - Top 3 models were used in a soft-probability vote classifier
 2. [Tuned randomforest](data/ISC_RF_tuning.ipynb)
