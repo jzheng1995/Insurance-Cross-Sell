@@ -24,15 +24,16 @@ We evaluated the performance of the following models in predicting insurance cro
 1.[Voting classifier](data/ISC_naive_clf.ipynb)
   - 8 Default classifiers were compared on performance
   - Top 3 models were used in a soft-probability vote classifier
-2. [Tuned XGBoost](data/ISC_autoopt.ipynb)
+2. [Tuned randomforest](data/ISC_RF_tuning.ipynb)
+  - Tuned random forest model using Bayesian Optimization
+  - Improved recall by 500%, f1 by 100%, and auc by 40%
+  - Target-encoded high cardinality categorical variables
+3. [Tuned XGBoost](data/ISC_autoopt.ipynb)
   - Set up a XGBoost model pipeline
-  - Used Bayesian hyperoptimization to tune model
-  - Models were evaluated in native XGBoost Cross-validation
-3. [Tuned randomforest](data/ISC_RF_tuning.ipynb)
-  - Work in progress
-  
+  - Utilized GPU to improve training time by 600%
+  - Models were evaluated in native XGBoost Cross-validation 
 ## Results
 
-1. The naive voting classifier model achieved 87.5% accuracy in the public leaderboard.
+The naive voting classifier model achieved 87.5% accuracy in the public leaderboard. For realistic predictive modeling, the tuned random forest model had an improved recall of 500%, f1 of 100%, and auc of 40% over default model. 
 
 

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38fd1fca-7726-43b9-8f58-90585114e6bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ISC_RF_tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/ISC_RF_tuning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/ISC_autoopt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/ISC_autoopt.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <workItem from="1721577474251" duration="31451000" />
       <workItem from="1721760896602" duration="27888000" />
       <workItem from="1721878935354" duration="23003000" />
-      <workItem from="1722162803384" duration="50512000" />
+      <workItem from="1722162803384" duration="50779000" />
     </task>
     <servers />
   </component>
